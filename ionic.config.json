@@ -1,0 +1,7 @@
+{
+  "name": "crudcomp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
